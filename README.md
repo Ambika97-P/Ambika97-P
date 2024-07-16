@@ -13,7 +13,8 @@ I'm currently pursuing  my MCA degree and seeking job opportunities in the indus
 
 - 📫 How to reach me     **ambikaambi355@gmail.com**
 
-- 💬 Ask me about        **I'm Ambika P MCA Student | Web Development Enthusiast. I'm passionate about web development and eager to learn and grow in this field.**
+- 💬 Ask me about
+   **I'm Ambika P MCA Student | Web Development Enthusiast.  I'm passionate about web development and eager to learn and grow in this field.**
 
 
 <h3 align="left">Connect with me:</h3>
