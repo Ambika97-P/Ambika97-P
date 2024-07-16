@@ -12,7 +12,11 @@ I'm currently pursuing  my MCA degree and seeking job opportunities in the indus
 - 🌱 I’m currently learning **JavaScript framework and courses**
 
 - 📫 How to reach me **ambikaambi355@gmail.com**
+
+- 
 💬 Ask me about **I'm Ambika P MCA Student | Web Development Enthusiast. I'm passionate about web development and eager to learn and grow in this field.**
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ambika-p-493264277?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ambika-p-493264277?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
